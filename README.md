@@ -1,1 +1,25 @@
-# Organic-Food
+# Organic-Food E-Commerce Portal
+![Screenshot (334)](https://github.com/user-attachments/assets/9f3a0a23-7402-4dbf-b4d1-b998a05adab6)
+![Screenshot (335)](https://github.com/user-attachments/assets/09648e0f-494a-4ede-bebe-15275af3c61f)
+![Screenshot (336)](https://github.com/user-attachments/assets/ee8fce6c-b8a3-484d-9d09-4678031899ef)
+![Screenshot (337)](https://github.com/user-attachments/assets/170504a7-f30a-4ef3-ac3e-65026ddb191b)
+![Screenshot (338)](https://github.com/user-attachments/assets/209c98a9-d218-41e2-a6b8-bfd06cca5449)
+![Screenshot (340)](https://github.com/user-attachments/assets/be17015c-dbb2-4d37-ae37-dc70285c4655)
+![Screenshot (341)](https://github.com/user-attachments/assets/cabddd7b-f20f-4616-838a-4dacddcb6e20)
+![Screenshot (342)](https://github.com/user-attachments/assets/4128839c-06c4-41a4-9ee3-fd442c55045f)
+![Screenshot (343)](https://github.com/user-attachments/assets/3a34566e-777c-4f78-95f3-eb9a36f56118)
+![Screenshot (344)](https://github.com/user-attachments/assets/99b92d2b-02ca-4500-a294-9646f9eea681)
+![Screenshot (345)](https://github.com/user-attachments/assets/0fab214b-1644-44e1-846a-43124d15c60d)
+![Screenshot (346)](https://github.com/user-attachments/assets/d4c47a70-aac5-4f11-afa6-0443b6bef8ad)
+![Screenshot (347)](https://github.com/user-attachments/assets/00cf8d7d-7b8a-4aeb-93d0-4bbb2e64c5c6)
+![Screenshot (348)](https://github.com/user-attachments/assets/4a2eec7f-1606-4fd1-8181-944f6ccde84d![Screenshot (349)](https://github.com/user-attachments/assets/f3d1ffc3-4ba2-448c-b18c-bc9eeccf67dd)
+)![Screenshot (350)](https://github.com/user-attachments/assets/532aa549-a571-4373-845e-4b2f46906150)
+![Screenshot (351)](https://github.com/user-attachments/assets/fe040b8f-efb0-4a7e-a502-a78b93aae8de)
+![Screenshot (352)](https://github.com/user-attachments/assets/8009556c-76ec-4d1b-b958-5a313cac68e7)
+![Screenshot (355)](https://github.com/user-attachments/assets/85d7f9dc-89f1-4877-ae6b-3918fbfc1441)
+
+![Screenshot![Screenshot (357)](https://github.com/user-attachments/assets/9f922777-b135-46f0-a532-59a864be44e6)
+ (356)](https://github.com/user-attachments/assets/953eaa5e-0942-45d4-b289-4754f3870fde)
+![Screenshot (356)](https://github.com/user-attachments/assets/9380289b-6268-4ce1-a2da-b1eac694fe55)
+![Screenshot (359)](https://github.com/user-attachments/assets/352c85b4-b84e-4a9b-89db-47042e76c0c9)![Screenshot (363)](https://github.com/user-attachments/assets/afa63efd-0b7b-4a9f-808a-c69cf88d4988)
+
